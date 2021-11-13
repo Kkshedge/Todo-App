@@ -1,0 +1,47 @@
+h1 {
+    padding-top: 20px;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: Product Sans;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input {
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Product Sans;
+    margin-right: 20px;
+}
+
+.page {
+    background-color: #fad9af;
+    font-family: Product Sans;
+}
+
+button {
+	font-family: Product Sans;
+ 	padding: 8px;
+ 	margin: 5px;
+ 	border-style: solid;
+ 	border-color: #4CAF50;
+ 	border-radius: 5px;
+ 	background-color: white;
+ 	transition-duration: 0.2s;
+}
+
+button:hover {
+ 	background-color: #4CAF50;
+}
+
+button:focus {
+ 	padding: 6px;
+}
