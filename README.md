@@ -9,3 +9,5 @@ Create a todo application having following components
 3. app root (main) component
 
 4. Create a service (TodoService) and share data amongst Todo List & Todo Details Components
+
+![image](https://user-images.githubusercontent.com/60281508/141653750-ca0ca07e-4899-434c-a255-3db07a452e7b.png)
